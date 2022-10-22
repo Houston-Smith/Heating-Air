@@ -56,3 +56,4 @@ C:\Users\Houst\workspace\Claud\Claud\obj\Debug\net5.0\refint\Claud.dll
 C:\Users\Houst\workspace\Claud\Claud\obj\Debug\net5.0\Claud.pdb
 C:\Users\Houst\workspace\Claud\Claud\obj\Debug\net5.0\Claud.genruntimeconfig.cache
 C:\Users\Houst\workspace\Claud\Claud\obj\Debug\net5.0\ref\Claud.dll
+C:\Users\Houst\workspace\Claud\Claud\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

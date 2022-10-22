@@ -15,11 +15,7 @@ VALUES (1, 'Nashville Biscuit House', 'Filler', SYSDATETIME(), 8, 6, 7, 7, 8, 7,
 (2, 'Nashville Biscuit House', 'Filler', SYSDATETIME(), 9, 6, 8, 9, 8, 8, 'No Notes', 'White', 2);
 SET IDENTITY_INSERT [Review] OFF
 
-SET IDENTITY_INSERT [Tag] ON
-INSERT INTO [Tag] ([Id], [Name])
-VALUES (1, 'Ambiance'),
-(2, 'Great Coffee');
-SET IDENTITY_INSERT [Tag] OFF
+
 
 
 
