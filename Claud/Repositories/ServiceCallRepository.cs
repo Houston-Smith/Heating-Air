@@ -21,7 +21,7 @@ namespace Claud.Repositories
                 {
                     cmd.CommandText = @"
                         SELECT Id, LocationName, LocationAddress, DateScheduled, DateService, 
-                        Notes, UserProfileId,
+                        Notes, UserProfileId
 
                         FROM ServiceCall
                          ";
@@ -65,7 +65,7 @@ namespace Claud.Repositories
                 {
                     cmd.CommandText = @"
                         SELECT Id, LocationName, LocationAddress, DateScheduled, DateService, 
-                        Notes, UserProfileId,
+                        Notes, UserProfileId
 
                         FROM ServiceCall
 
@@ -111,7 +111,7 @@ namespace Claud.Repositories
                 {
                     cmd.CommandText = @"
                         SELECT Id, LocationName, LocationAddress, DateScheduled, DateService, 
-                        Notes, UserProfileId,
+                        Notes, UserProfileId
 
                         FROM ServiceCall
 
